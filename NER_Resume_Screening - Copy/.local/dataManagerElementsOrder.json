@@ -1,0 +1,39 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "debugString&Sequence_1",
+        "JsonObject&Sequence_1",
+        "nerJsonArray&Sequence_1",
+        "messageArrayStr&Sequence_1",
+        "groupedData&Sequence_1",
+        "outputTable&Sequence_1",
+        "maxCount&Sequence_1",
+        "newRow&Sequence_1",
+        "outputString&Sequence_1",
+        "itemType&Sequence_6",
+        "itemText&Sequence_6",
+        "newRow&Sequence_9",
+        "DJson&Sequence_1",
+        "pdf_content&Sequence_1",
+        "OutJArray&Sequence_1",
+        "jit_NER&Sequence_1",
+        "Out_Entities&Sequence_1",
+        "CV_Content&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

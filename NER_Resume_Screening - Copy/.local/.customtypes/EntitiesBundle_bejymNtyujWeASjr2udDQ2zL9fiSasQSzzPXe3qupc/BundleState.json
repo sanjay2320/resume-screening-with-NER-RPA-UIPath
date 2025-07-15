@@ -1,0 +1,13 @@
+{
+  "assemblyStates": {
+    "C6C606A8485_ner_Crea.ZEssd2aRBSN1hDVtz3FZJeR4": {
+      "namespace": "UiPath.IntegrationService.Activities.SWEntities.C6C606A8485_ner_Create.Bundle",
+      "providerName": "CustomEntities",
+      "key": {
+        "name": "UiPath.IntegrationService.Activities.SWEntities.C6C606A8485_ner_Create",
+        "hash": "TUJsa3JYd1lIVTkyOWovRGluT3h0ZDNlMitTU2phbUpEaXVUOHhKMWhhZ2JpMm1ieWoyYjF2TytDcldGY08vMFlDQ0QvVHBNKzlHL0hOb1RWcVZ0bUE9PQ",
+        "assemblyName": "C6C606A8485_ner_Crea.ZEssd2aRBSN1hDVtz3FZJeR4"
+      }
+    }
+  }
+}
